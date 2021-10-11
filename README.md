@@ -7,3 +7,4 @@ Woah!
 Návod ke spuštění (Windows):
 ---------------------------
 Je potřeba mít nainstalovaný Python. Po naklonování/stažení repa se do něj přemístíme v cmd. Do cmd zadáme příkaz `py -m venv ./venv`, dále `venv\Scripts\activate`, pak `py -m pip install -r requirements.txt` a nakonec `hardscr.py`. Hotovo.
+Nyní je v adresáři soubor `data.xlsx`, který potřebuje formátování a vyhodnocení, ale data jsou roztřízená do správných buněk.
